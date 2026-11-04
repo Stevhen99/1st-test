@@ -23,3 +23,4 @@ A lightweight, responsive calorie and macronutrient tracker built with vanilla *
 ## License
 
 MIT License.
+
